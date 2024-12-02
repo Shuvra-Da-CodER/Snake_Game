@@ -6,7 +6,7 @@
 
 
 .body {
-  background-image: url(../bg.jpg);
+  background-image: url(/bg.jpg);
   background-size: 100vw 100vh;
   min-height: 100vh;
   display: flex;
